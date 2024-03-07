@@ -1,0 +1,2 @@
+TotalSales: 0 $
+VehiclesRepaired: 0

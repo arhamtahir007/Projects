@@ -1,0 +1,3 @@
+C:/Users/Waleed/Documents/Garage/cmake-build-debug/CMakeFiles/Garage.dir
+C:/Users/Waleed/Documents/Garage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Waleed/Documents/Garage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
