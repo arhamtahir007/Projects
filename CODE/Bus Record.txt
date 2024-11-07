@@ -1,0 +1,1 @@
+44 2 4 48 14400 RED auto Bus 1  Lcd not working
