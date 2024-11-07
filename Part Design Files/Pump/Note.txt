@@ -1,0 +1,4 @@
+Although we designed the pump, we did not 3D printed and used it in our final product due to shortage of time.
+Assembly of pump is though and had a high chance of not working properly so we opted for a market small pump.
+Due to approching submission deadline we decided not to take any risk. Help was taken from Youtube
+during the designing of pump.
